@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SubjectDecider</string>
+    <string name="add_new_subject">add new subject...</string>
+    <string name="add_subject">ADD SUBJECT</string>
+    <string name="decide">DECIDE!</string>
+    <string name="coa">COA</string>
+</resources>
